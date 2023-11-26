@@ -8,3 +8,6 @@ https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
 # Video entrega 2
 https://youtu.be/Wm-ExEA0tvQ
+
+# Video entrega final
+https://www.youtube.com/watch?v=XFf1mKA5EX0
